@@ -27,7 +27,7 @@ panel_title: EMHASS-test
 schema:
   hass_url: "str?" #optional
   long_lived_token: "password?" #optional
-  data_path: "list(default|/data/|/share)?" #optional
+  data_path: "list(default|/data/|/share/emhass/)?" #optional
   time_zone: "match((\\w+)?(\\/)(\\w+))?" #optional
   Latitude: "float?" #optional
   Longitude: "float?" #optional

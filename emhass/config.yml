@@ -1,7 +1,7 @@
 name: EMHASS_mime24
 description: Energy Management for Home Assistant
 url: https://github.com/davidusb-geek/emhass
-version: dev3.1 #set if use image container version
+version: dev3.2 #set if use image container version
 slug: emhass_mime24
 arch:
   - aarch64

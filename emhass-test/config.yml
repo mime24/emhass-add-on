@@ -3,6 +3,7 @@ description: Energy Management for Home Assistant (testing version)
 url: https://github.com/mime24/emhass
 version: test # pull the latest test image
 slug: emhass_mime24-test
+stage: experimental
 arch:
   - aarch64
   - amd64
